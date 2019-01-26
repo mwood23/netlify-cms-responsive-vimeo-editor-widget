@@ -9,6 +9,10 @@
   "keywords": [
     "netlify-cms"
   ],
-  "author": "Marcus Wood <marcus@calderadigital.com>",
-  "license": "MIT"
+  "author": "Marcus Wood <marcuswood230@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwood23/netlify-cms-responsive-vimeo-editor-widget"
+  }
 }
