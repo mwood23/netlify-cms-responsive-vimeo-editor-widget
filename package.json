@@ -1,0 +1,14 @@
+{
+  "name": "netlify-cms-responsive-vimeo-editor-widget",
+  "version": "1.0.0",
+  "description": "Custom editor widget to allow reponsive Vimeo videos to be placed into the editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify-cms"
+  ],
+  "author": "Marcus Wood <marcus@calderadigital.com>",
+  "license": "MIT"
+}
