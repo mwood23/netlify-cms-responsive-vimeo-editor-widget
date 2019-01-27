@@ -15,10 +15,7 @@ module.exports = {
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return `<div style="overflow: hidden;padding-bottom: 56.25%;position: relative;height: 0;"><iframe src="https://player.vimeo.com/video/${
-      obj.id
-    }" style="left: 0;top: 0;height: 100%;width: 100%;
-      position: absolute;" width="853" height="505" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>`;
+    return 'vimeo ' + obj.id;
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)

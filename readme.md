@@ -2,6 +2,12 @@
 
 Adds a Vimeo widget to your editor allowing you to embed videos responsively with your app.
 
+## Installation
+
+```
+npm install netlify-cms-responsive-vimeo-editor-widget
+```
+
 ## Usage
 
 Within your `cms.js` file:
