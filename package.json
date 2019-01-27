@@ -1,7 +1,7 @@
 {
-  "name": "netlify-cms-responsive-vimeo-editor-widget",
+  "name": "netlify-cms-responsive-youtube-editor-widget",
   "version": "1.0.0",
-  "description": "Custom editor widget to allow reponsive Vimeo videos to be placed into the editor.",
+  "description": "Custom editor widget to allow reponsive YouTube videos to be placed into the editor.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mwood23/netlify-cms-responsive-vimeo-editor-widget"
+    "url": "https://github.com/mwood23/netlify-cms-responsive-youtube-editor-widget"
   }
 }

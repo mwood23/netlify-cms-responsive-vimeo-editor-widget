@@ -1,6 +1,12 @@
-# netlify-cms-responsive-vimeo-editor-widget
+# netlify-cms-responsive-youtube-editor-widget
 
 Adds a Vimeo widget to your editor allowing you to embed videos responsively with your app.
+
+## Installation
+
+```
+npm install netlify-cms-responsive-youtube-editor-widget
+```
 
 ## Usage
 
@@ -8,9 +14,9 @@ Within your `cms.js` file:
 
 ```js
 import CMS from 'netlify-cms';
-import ResponsiveVimeoEditorWidget from 'netlify-cms-responsive-vimeo-editor-widget';
+import ResponsiveYouTubeEditorWidget from 'netlify-cms-responsive-youtube-editor-widget';
 
-CMS.registerEditorComponent(ResponsiveVimeoEditorWidget);
+CMS.registerEditorComponent(ResponsiveYouTubeEditorWidget);
 ```
 
 If you're using Gatsby you need to direct Netlify CMS to your `cms.js` file like this:
